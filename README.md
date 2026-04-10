@@ -1,9 +1,26 @@
-# 💫 About Me:
-Hi, I’m Abdur Rehman, a passionate web developer focused on building modern and scalable applications. I’m currently working on a MedusaJS eCommerce project and continuously exploring ways to create seamless full-stack solutions. I enjoy collaborating on projects that involve technologies such as JavaScript, Node.js, React, Next.js, MongoDB, TypeScript, Tailwind CSS, and ShadCN. At the moment, I’m also expanding my skills by learning full-stack cloud deployment, aiming to deliver production-ready applications with professional deployment pipelines.
+# 👋 Hi, I’m Abdur Rehman
 
+I build modern and scalable web applications with a focus on real-world product development. Over time, I’ve grown from learning and experimenting to creating mature, production-ready systems that solve meaningful problems.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AbdurRehman80808) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdurrehman80808) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrehman-dev26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ar2522006@gmail.com) 
+My work emphasizes polished user experiences, reliable backend structures, and thoughtful architectures that can grow with users and businesses. I enjoy taking ideas from concept to execution and shaping them into practical, high-quality software.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+## 🚀 What I’m Doing Now
+I’m currently working as a SaaS founder, designing and developing products that prioritize performance, simplicity, and long-term scalability. My goal is to build solutions that feel natural to use and are engineered with clarity and purpose.
+
+## 🎯 What I Care About
+- Building real products that deliver real value  
+- Crafting clean, reliable, and intentional systems  
+- Designing smooth onboarding and user-friendly flows  
+- Ensuring clarity in code, architecture, and product decisions  
+- Understanding the “why” behind every feature
+
+## 📈 My Direction
+I’m moving deeper into product strategy, full-stack architecture, and cloud deployment. My long-term aim is to create impactful SaaS solutions shaped by both engineering and entrepreneurial thinking.
+
+## 🌐 Connect With Me
+If you’d like to collaborate, discuss ideas, or just say hello, feel free to reach out.
+
+**Facebook:** AbdurRehman80808  
+**Instagram:** abdurrehman80808  
+**LinkedIn:** abdurrehman-dev26  
+**Email:** ar2522006@gmail.com
